@@ -1,4 +1,4 @@
-# wheel_of_fortune
+# wheel of Fortune
 
 Wheel of Fortune is a phrase guessing game based on Hangman.
 The game have four rounds. In each round, a phrase selected at random from
