@@ -19,6 +19,10 @@ Solo Wheel of Fortune is based on the classic Hangman game concept with addition
 - Players can attempt to solve the puzzle at any time
 - Risk elements like the BANKRUPT wheel space
 
+> ![NOTE]
+> 
+> The phrases used in this game are primarily college-themed terms and expressions, making it educational as well as entertaining!
+
 ## Features
 
 - Random phrase selection from a text file
@@ -38,6 +42,10 @@ Solo Wheel of Fortune is based on the classic Hangman game concept with addition
 1. Clone or download this repository to your local machine
 2. Ensure you have Python 3.x installed
 3. Place the `phrases.txt` file in the same directory as the `solo_wof.py` script
+
+> ![TIP]
+> 
+> If you want to customize the game, you can modify the `phrases.txt` file to include your own phrases! Just make sure each phrase is on a separate line.
 
 ## How to Run
 
